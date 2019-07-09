@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './operators.css'
 
 //import any components needed
 import { operators } from "../../../data";
