@@ -1,0 +1,22 @@
+.numberBtnsLayout{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 200px;
+    grid-row-end: 2;
+    
+}
+.numbersBtn{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 60, 118);
+    border-radius: 50%;
+    color: white;
+    box-shadow: 0px 3px 2px #000;
+    margin: 5px 5px; 
+}
+
+.btn-0{
+    width: 110px;
+    border-radius: 50px;
+}
